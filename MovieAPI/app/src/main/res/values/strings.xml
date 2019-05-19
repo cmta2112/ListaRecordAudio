@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MovieAPI</string>
+    <string name="hint_movie">Ingrese la pelicula</string>
+    <string name="bt_search">Buscar</string>
+    <string name="tvTitle">Titulo</string>
+    <string name="tvYear">Año</string>
+    <string name="tvPlot">Sinopsis</string>
+
+</resources>
