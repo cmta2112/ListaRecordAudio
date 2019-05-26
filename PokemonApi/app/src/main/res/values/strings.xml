@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">PokemonApi</string>
+    <string name="hint_pokemon">Ingrese el pokemon</string>
+    <string name="bt_search">Buscar</string>
+    <string name="tvName">Nombre</string>
+    <string name="tvWeight">Peso</string>
+    <string name="tvHeight">Altura</string>
+    <string name="tvIdentify">Identificador</string>
+    <string name="pokemon">pokemon</string>
+    <string name="peso">peso</string>
+    <string name="altura">altura</string>
+    <string name="Pokemon">Ingrese el Pokemon</string>
+
+
 </resources>
